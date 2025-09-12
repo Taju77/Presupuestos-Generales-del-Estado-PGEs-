@@ -75,17 +75,21 @@ Los principales productos estadísticos utilizados para este análisis han consi
 - DESCRIPCIÓN: Nombre del organismo o entidad pública que realiza la operación 
 -----------------------------------------------------------------------------------------------------------------------------
 
+P.D.
+
 Si os fijáis, disponéis de una serie de gráficos de análisis con tablas y gráficos dinámicos en los apartados "Ingresos" y "Gastos" donde podéis descargar unas bases de datos unificadas personalmente por mí donde se contienen todas las observaciones de los archivos originales para cada año y contingencia. 
 Gracias a esta herramienta podréis extraer vuestras propias conclusiones acerca de los datos brutos.   
 
 Además, tengo que comentaros que he desarrollado una serie de "chunks" de código equivalente tanto en lenguaje R como en Python para realizar el análisis de los gráficos de forma equivalente por vuestra cuenta.
 
 
-De todas maneras, parte de estos análisis los podéis encontrar ya presentados por parte de la organización en su apartado web "¿Dónde van mis impuestos?" clicando en el siguiente enlace: 
-https://dondevanmisimpuestos.es/
+De todas maneras, parte de estos análisis los podéis encontrar ya presentados por parte de la organización en su apartado web ["¿Dónde van mis impuestos?"](https://dondevanmisimpuestos.es/), un trabajo de análisis y visualización de datos realizado igualmente por la Fundación y que ha dado inspiración a este proyecto. 
 
 
 También conviene recordar que esto es un proyecto individual, con datos abiertos dispuesto a consultas y sugerencias para ahondar en más detalles relevantes que deseéis comentarme :D
+
+Espero que os guste 😄
+
 
 
 
