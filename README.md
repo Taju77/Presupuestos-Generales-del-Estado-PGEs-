@@ -1,4 +1,4 @@
-# Análisis de los Presupuestos Generales del Estado (PGE) - Datos de la Fundación CIVIO 
+# Análisis de los Presupuestos Generales del Estado (PGE) - Datos de la Fundación Ciudadana CIVIO 
 
 La **[Fundación CIVIO](https://civio.es/)** es una entidad privada sin ánimo de lucro orientada a la prestación de servicios de información e investigación periodística en España. Su objetivo fundamental está orientado a mejorar la transparencia y la veracidad en la comunicación de la actividad por parte de las instituciones públicas y privadas de nuestro país [Información de Actividad 📢](https://civio.es/nosotros/). 
 
