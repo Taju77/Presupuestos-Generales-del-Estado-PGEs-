@@ -1,19 +1,26 @@
-# CIVIO -Presupuestos Generales del Estado (PGE)- 
+# Análisis de los Presupuestos Generales del Estado (PGE) - Datos de la Fundación CIVIO 
 
-La Fundación CIVIO es una entidad sin ánimo de lucro orientada a la prestación de servicios de información e investigación periodística en España. Su objetivo fundamental está orientado a mejorar la transparencia y la veracidad en la comunicación de la actividad por parte de las instituciones públicas y privadas de nuestro país (https://civio.es/nosotros/). 
+La **[Fundación CIVIO](https://civio.es/)** es una entidad privada sin ánimo de lucro orientada a la prestación de servicios de información e investigación periodística en España. Su objetivo fundamental está orientado a mejorar la transparencia y la veracidad en la comunicación de la actividad por parte de las instituciones públicas y privadas de nuestro país [Información de Actividad 📢](https://civio.es/nosotros/). 
 
-La organización, aunque dedicada a la emisión de artículos de opinión y otras piezas informativas, también posee diversas bases de datos abiertas al público (https://datos.civio.es/) donde se puede encontrar información de muy diversa índole (Funcionamiento de Instituciones, Recursos Sanitarios, Medio Ambiente y Meteorología, Sanidad, Indicadores de Poder Político, Procesos de Contratación Pública, Justicia, Transparencia, etc.).
+La organización, aunque dedicada a la emisión de artículos de opinión y otras piezas informativas, también posee diversas **[Datos](https://datos.civio.es/)** abiertos al público donde se puede encontrar información de muy diversa índole acerca de las **instituciones públicas**. Algunas de las áreas de interés en los que se agrupan los trabajos de investigación de la organización son las siguientes: 
 
+"""
+- Funcionamiento de Instituciones
+- Recursos Sanitarios
+- Medio Ambiente y Meteorología
+- Sanidad
+- Indicadores de Poder Político
+- Procesos de Contratación Pública
+- Justicia
+- Transparencia
+- ...
+"""
 
-En concreto, en este proyecto trabajaremos con una Base de Datos que recoge información acerca de las partidas aprobadas en los Presupuestos Generales del Estado (PGEs) desde el año 2007 hasta el año 2022, cuando se realizó este análisis para todas las partidas disponibles. La base de datos se puede solicitar previo contacto por correo electrónico en el siguiente enlace:
+En concreto, en este proyecto trabajaremos con una que recoge información acerca de las partidas aprobadas en los **[Presupuestos Generales del Estado (PGEs)](https://datos.civio.es/dataset/presupuestos-generales-del-estado/)** desde el año 2007 hasta el año 2022 (serie completa para cuando se realizó el análisis: Julio de 2024). Este conjunto de datos o "dataset" también es provisto por parte de la propia Fundación en su Repositorio GitHub [Fundación Ciudadana CIVIO](https://github.com/civio). La base de datos se puede solicitar previo contacto por correo electrónico en el siguiente enlace:
 
-https://datos.civio.es/dataset/presupuestos-generales-del-estado/
+[Solicitud Base de Datos al Correo de CIVIO](https://datos.civio.es/dataset/presupuestos-generales-del-estado/)
+[Descarga Directa GitHub](https://github.com/civio/presupuesto-pge/tree/master/data/es/pais)
 
-
-
-Además, la base de datos está abierta al público en un repositorio de GitHub para su descarga directa en el siguiente enlace:
-
-https://github.com/civio/presupuesto-pge/tree/master/data/es/pais
 
 
 
