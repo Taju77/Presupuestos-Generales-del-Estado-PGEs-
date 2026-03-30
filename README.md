@@ -18,14 +18,14 @@ La organización, aunque dedicada a la emisión de artículos de opinión y otra
 - ...
 
 
-En concreto, en este proyecto trabajaremos con una que recoge información acerca de las partidas aprobadas en los **[Presupuestos Generales del Estado (PGEs)](https://datos.civio.es/dataset/presupuestos-generales-del-estado/)** desde el año 2007 hasta el año 2022 (serie completa para cuando se realizó el análisis: Julio de 2024). Este conjunto de datos o "dataset" también es provisto por parte de la propia Fundación en su Repositorio GitHub [Fundación Ciudadana CIVIO](https://github.com/civio). La base de datos se puede solicitar previo contacto por correo electrónico en el siguiente enlace:
+En concreto, en este proyecto trabajaremos con una **Base de Datos** recoge información acerca de las partidas aprobadas en los **[Presupuestos Generales del Estado (PGEs)](https://datos.civio.es/dataset/presupuestos-generales-del-estado/)** desde el año 2007 hasta el año 2022 (serie completa para cuando se realizó el análisis: Julio de 2024). Este conjunto de datos o "dataset" también es provisto por parte de la propia Fundación en su Repositorio GitHub [Fundación Ciudadana CIVIO](https://github.com/civio). La base de datos se puede solicitar previo contacto por correo electrónico en el siguiente enlace:
 
 [Solicitud Base de Datos al Correo de CIVIO](https://datos.civio.es/dataset/presupuestos-generales-del-estado/)
 
 [Descarga Directa GitHub](https://github.com/civio/presupuesto-pge/tree/master/data/es/pais)
 
 
-
+Posteriormente, en el año 2025 se añadieron los ficheros correspondientes al año 2023, último año disponible para el que existieron Presupuestos aprobados en el Gobierno de Pedro Sánchez (PSOE). Durante los años 2024 y 2025 se prorrogaron los Presupuestos del año 2023
 
 
 ## PROYECTO 
