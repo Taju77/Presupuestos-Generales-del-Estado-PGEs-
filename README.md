@@ -32,7 +32,7 @@ Posteriormente, en el año 2025 se añadieron los ficheros correspondientes al a
 
 El proyecto de análisis se dividirá en 2 fases fundamentales:
 
-1. Evolución de los Ingresos Públicos Totales recaudados por parte de las Administraciones Públicas (2007-2022)
+1. **Evolución de los Ingresos Públicos Totales** estimados por parte de las Administraciones Públicas (2007-2022)
 
 * IMPUESTOS DIRECTOS 
   - Impuesto sobre la Renta de las Personas Físicas (IRPF)
@@ -45,7 +45,7 @@ El proyecto de análisis se dividirá en 2 fases fundamentales:
   - Impuestos sobre el Tabaco y Bebidas Alcohólicas 
 
 
-2. Evolución del Gasto Público Total presupuestado por parte de las AA.PP. (2007-2022)
+2. **Evolución del Gasto Público Total** presupuestado por parte de las AA.PP. (2007-2022)
 
 * GASTO EN PENSIONES
 * GASTO EN EDUCACIÓN
