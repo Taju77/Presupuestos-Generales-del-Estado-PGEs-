@@ -53,7 +53,7 @@ El proyecto de análisis se dividirá en 2 fases fundamentales:
 * GASTO MILITAR EN DEFENSA
 
 
-3. Ranking de Comparación y Composición de los Ingresos y Gastos en el último año disponible (2023)
+3. **Ranking de Comparación y Composición de los Ingresos y Gastos** en el último año disponible de aprobación de Presupuestos (2023)
 
 
 
